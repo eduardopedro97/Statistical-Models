@@ -1,5 +1,0 @@
-Um txt para um repositório local
-
-teste 1
-
-teste 2 - testando branching
